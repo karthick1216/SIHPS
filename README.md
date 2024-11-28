@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28-11-2024
+## Register Number:24900557
+## Name:Karthick.S
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,41 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+1.User Profiles & Networking: Create detailed alumni profiles and allow alumni to network, search by industry, or location. Include mentorship matching.
 
+2.Job & Internship Portal: Build a job board for alumni to post job opportunities and internships, along with career counseling features like resume reviews.
+
+3.Events & Webinars: Organize events (reunions, seminars, webinars), enable RSVP, and provide live streaming for alumni-led webinars.
+
+4.Communication & Engagement: Implement news feeds, discussion groups, and personalized notifications to keep alumni engaged and connected.
+
+5.Fundraising & Donations: Create a donation portal, allowing alumni to contribute to the university and participate in giving programs.
 
 ## Proposed Solution / Architecture Diagram
+![Screenshot 2024-11-28 074631](https://github.com/user-attachments/assets/31100207-1c49-4014-8ec0-cf03ee720038)
+
 
 
 ## Use Cases
+![image 01](https://github.com/user-attachments/assets/96e30d0e-a5fa-4af0-9aab-10530e7ae02e)
 
 
 ## Technology Stack
-
+React.js
+CSS Framework: Tailwind CSS or Bootstrap
+State Management: Redux or React Context API
+React Native or Flutter
+Node.js with Express.js
+JWT (JSON Web Tokens) or OAuth 2.0
+Stripe or Razorpay
+Amazon S3
+PostgreSQL or MySQL
+MongoDB (optional)
+AWS (Amazon Web Services) or Google Cloud Platform (GCP)
 
 ## Dependencies
+Mapping service- 10 days
 
+Data collection- 10 days
+
+budget- rs.50,000
